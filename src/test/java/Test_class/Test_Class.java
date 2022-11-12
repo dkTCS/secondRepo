@@ -45,7 +45,7 @@ public class Test_Class extends Base_Class {
 		
 		login1.clickLoginBtn();
 		
-		//enter pin
+		//enter pin/ paswword for git
 		
 		login2.enterPIN(Utility_class.getTD(0, 2));
 		
